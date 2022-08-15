@@ -4,5 +4,9 @@ public class Deneme1 {
 
         System.out.println("1. deneme");
 
+
+
+        //denemem1
+
     }
 }
