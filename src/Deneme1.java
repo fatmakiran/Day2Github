@@ -3,6 +3,8 @@ public class Deneme1 {
 
 
         System.out.println("1. deneme");
+        System.out.println("2. deneme");
+
 
 
 
