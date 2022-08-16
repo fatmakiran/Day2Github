@@ -4,5 +4,10 @@ public class Deneme2 {
         System.out.println("Deneme3 calisma");
         System.out.println("Deneme4 calisma");
         System.out.println("fatma" );
+         System.out.println("fatma2" );
+        
+        
+        
+        
     }
 }
